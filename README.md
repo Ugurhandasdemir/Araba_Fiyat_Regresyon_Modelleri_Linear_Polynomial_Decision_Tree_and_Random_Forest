@@ -92,4 +92,4 @@ Kullanılan veri seti, **`7_CarPrice_Assignment.csv`** dosyasıdır. Bu veri set
 
 ## Sonuç
 
-Bu projede, farklı regresyon modelleri kullanılarak araba fiyatlarının tahmini yapılmıştır. Modellerin performansı R² skorları ile karşılaştırılmıştır. **Karar Ağacı Regresyonu**, en yüksek R² skorunu elde ederek en başarılı model olmuştur.
+Bu projede, farklı regresyon modelleri kullanılarak araba fiyatlarının tahmini yapılmıştır. Modellerin performansı R² skorları ile karşılaştırılmıştır. **Decesion Tree Regression**, en yüksek R² skorunu elde ederek en başarılı model olmuştur.
